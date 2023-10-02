@@ -1,4 +1,5 @@
-# CS:GO System Design
+# CS: <s>GO</s> 2 System Design
+*28.09.2023 года игра сменила название с CS:GO на CS:2
 
 ## Содержание
 
